@@ -36,10 +36,10 @@ features.txt
 activity_labels.txt  
   
 
-Code Description:
-Downloads Data
-Reads files and creates folders
-Marges the train set and data set to create one data
-Extracts only measurements for mean and std
-Names and labels activites in the dataset
-Creates a dataset2 with new requirements which been outlined in readme
+Code Description:  
+Downloads Data  
+Reads files and creates folders  
+Marges the train set and data set to create one data  
+Extracts only measurements for mean and std  
+Names and labels activites in the dataset  
+Creates a dataset2 with new requirements which been outlined in readme  
